@@ -1,0 +1,5 @@
+yandex_token     = ""
+cloud_id         = ""
+folder_id        = ""
+zone             = "ru-central1-b"
+public_key_path  = ""
